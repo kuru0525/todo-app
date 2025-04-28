@@ -13,3 +13,7 @@ pull -　引き出す -　 Remote の内容をローカルに取り入れるコ�
 
 ・Local
 　個人端末内の環境
+
+【ブランチについて】
+Branch -　 main とはきり離れた別名の環境
+　 git checkout -b sub1_Branch
